@@ -29,3 +29,8 @@ photography-portfolio/
 │ └── main.jsx
 ├── package.json
 └── vite.config.js
+## 🛠️ Tech Stack
+- React + Vite
+- Chakra UI
+- EmailJS
+- Framer Motion (for animations)

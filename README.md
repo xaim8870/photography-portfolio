@@ -1,6 +1,6 @@
 # Abdul Ahad Shan Photography Portfolio
 
-![Project Preview](./public/screenshot.jpg) <!-- Add a screenshot later -->
+
 
 A responsive photography portfolio showcasing landscapes and portraits from Pakistan, built with React and Chakra UI.
 
@@ -29,8 +29,10 @@ photography-portfolio/
 │ └── main.jsx
 ├── package.json
 └── vite.config.js
+
 ## 🛠️ Tech Stack
 - React + Vite
 - Chakra UI
 - EmailJS
 - Framer Motion (for animations)
+

@@ -1,5 +1,5 @@
 import { Box, Grid, Image, Text, Heading } from "@chakra-ui/react";
-import Portrait from "../components/ui/portraits";
+import Portrait from "@/components/ui/portraits";
 
 const extractNumber = (path) => {
     const match = path.match(/(\d+)\.jpg(?:\?.*)?$/); // Updated regex to handle query strings
